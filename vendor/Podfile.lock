@@ -1,0 +1,80 @@
+
+PODS:
+- AFNetworking (1.0.1)
+- JSONKit (1.5pre)
+- Kal (1.0rc1)
+- Nimbus (1.0.0):
+  - Nimbus/AttributedLabel (= 1.0.0)
+  - Nimbus/Badge (= 1.0.0)
+  - Nimbus/CSS (= 1.0.0)
+  - Nimbus/Core (= 1.0.0)
+  - Nimbus/Interapp (= 1.0.0)
+  - Nimbus/Launcher (= 1.0.0)
+  - Nimbus/Models (= 1.0.0)
+  - Nimbus/NetworkControllers (= 1.0.0)
+  - Nimbus/NetworkImage (= 1.0.0)
+  - Nimbus/Operations (= 1.0.0)
+  - Nimbus/Overview (= 1.0.0)
+  - Nimbus/PagingScrollView (= 1.0.0)
+  - Nimbus/Photos (= 1.0.0)
+  - Nimbus/WebController (= 1.0.0)
+- Nimbus/AttributedLabel (1.0.0):
+  - Nimbus/Core
+- Nimbus/Badge (1.0.0):
+  - Nimbus/Core
+- Nimbus/CSS (1.0.0):
+  - AFNetworking
+  - Nimbus/Core
+- Nimbus/Core (1.0.0)
+- Nimbus/Interapp (1.0.0):
+  - Nimbus/Core
+- Nimbus/Launcher (1.0.0):
+  - Nimbus/Core
+- Nimbus/Models (1.0.0):
+  - Nimbus/Core
+- Nimbus/NetworkControllers (1.0.0):
+  - Nimbus/Core
+- Nimbus/NetworkImage (1.0.0):
+  - Nimbus/Core
+- Nimbus/Operations (1.0.0):
+  - Nimbus/Core
+  - Nimbus/Operations/JSON (= 1.0.0)
+- Nimbus/Operations/JSON (1.0.0):
+  - JSONKit
+  - Nimbus/Core
+- Nimbus/Overview (1.0.0):
+  - Nimbus/Core
+- Nimbus/PagingScrollView (1.0.0):
+  - Nimbus/Core
+- Nimbus/Photos (1.0.0):
+  - Nimbus/Core
+  - Nimbus/PagingScrollView
+- Nimbus/WebController (1.0.0):
+  - Nimbus/Core
+
+DEPENDENCIES:
+- Kal
+- Nimbus
+
+SPEC CHECKSUMS:
+  AFNetworking: 4c11f857c9a18d65f4257c90a1e74ac49f0ac422
+  JSONKit: 3d4708953ea7ae399a49777372d8b060a43ddd27
+  Kal: 1662d563939f65065f878ac82a90bb34863634ef
+  Nimbus: 196175ecaddf4e88925c9e0441aa58e4e40a2b89
+  Nimbus/AttributedLabel: 196175ecaddf4e88925c9e0441aa58e4e40a2b89
+  Nimbus/Badge: 196175ecaddf4e88925c9e0441aa58e4e40a2b89
+  Nimbus/CSS: 196175ecaddf4e88925c9e0441aa58e4e40a2b89
+  Nimbus/Core: 196175ecaddf4e88925c9e0441aa58e4e40a2b89
+  Nimbus/Interapp: 196175ecaddf4e88925c9e0441aa58e4e40a2b89
+  Nimbus/Launcher: 196175ecaddf4e88925c9e0441aa58e4e40a2b89
+  Nimbus/Models: 196175ecaddf4e88925c9e0441aa58e4e40a2b89
+  Nimbus/NetworkControllers: 196175ecaddf4e88925c9e0441aa58e4e40a2b89
+  Nimbus/NetworkImage: 196175ecaddf4e88925c9e0441aa58e4e40a2b89
+  Nimbus/Operations: 196175ecaddf4e88925c9e0441aa58e4e40a2b89
+  Nimbus/Operations/JSON: 196175ecaddf4e88925c9e0441aa58e4e40a2b89
+  Nimbus/Overview: 196175ecaddf4e88925c9e0441aa58e4e40a2b89
+  Nimbus/PagingScrollView: 196175ecaddf4e88925c9e0441aa58e4e40a2b89
+  Nimbus/Photos: 196175ecaddf4e88925c9e0441aa58e4e40a2b89
+  Nimbus/WebController: 196175ecaddf4e88925c9e0441aa58e4e40a2b89
+
+COCOAPODS: 0.16.0
