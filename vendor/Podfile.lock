@@ -2,7 +2,6 @@
 PODS:
 - AFNetworking (1.0.1)
 - JSONKit (1.5pre)
-- Kal (1.0rc1)
 - Nimbus (1.0.0):
   - Nimbus/AttributedLabel (= 1.0.0)
   - Nimbus/Badge (= 1.0.0)
@@ -52,16 +51,16 @@ PODS:
 - Nimbus/WebController (1.0.0):
   - Nimbus/Core
 - SVProgressHUD (0.8)
+- TapkuLibrary (2.1)
 
 DEPENDENCIES:
-- Kal
 - Nimbus
 - SVProgressHUD
+- TapkuLibrary
 
 SPEC CHECKSUMS:
   AFNetworking: 4c11f857c9a18d65f4257c90a1e74ac49f0ac422
   JSONKit: 3d4708953ea7ae399a49777372d8b060a43ddd27
-  Kal: 1662d563939f65065f878ac82a90bb34863634ef
   Nimbus: 196175ecaddf4e88925c9e0441aa58e4e40a2b89
   Nimbus/AttributedLabel: 196175ecaddf4e88925c9e0441aa58e4e40a2b89
   Nimbus/Badge: 196175ecaddf4e88925c9e0441aa58e4e40a2b89
@@ -79,5 +78,6 @@ SPEC CHECKSUMS:
   Nimbus/Photos: 196175ecaddf4e88925c9e0441aa58e4e40a2b89
   Nimbus/WebController: 196175ecaddf4e88925c9e0441aa58e4e40a2b89
   SVProgressHUD: 51042a14e3a716efdbdd73cbb2181fb23ee94389
+  TapkuLibrary: 1c6a03ce9d5928b71a5549c68d605856cc0bf79a
 
 COCOAPODS: 0.16.0

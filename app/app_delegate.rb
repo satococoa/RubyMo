@@ -1,10 +1,7 @@
 class AppDelegate
   def application(application, didFinishLaunchingWithOptions:launchOptions)
     @window = UIWindow.alloc.initWithFrame(App.bounds)
-    entries_data_source = EntriesDataSource.new
-    calendar = CalendarController.alloc.initWithDataSource(entries_data_source).tap do |cal|
-      cal.tableView.delegate = cal
-    end
+    calendar = CalendarController.alloc.initWithNibName(nil, bundle:nil)
     navigation = UINavigationController.alloc.initWithRootViewController(calendar)
     @window.rootViewController = navigation
     @window.makeKeyAndVisible
