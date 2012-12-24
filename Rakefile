@@ -8,7 +8,7 @@ Motion::Project::App.setup do |app|
   # Use `rake config' to see complete project settings.
   app.name = 'RubyMo'
   app.pods do
-    pod 'TapkuLibrary'
+    pod 'Kal'
     pod 'Nimbus'
     pod 'SVProgressHUD'
   end
