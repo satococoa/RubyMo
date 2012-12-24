@@ -10,5 +10,6 @@ Motion::Project::App.setup do |app|
   app.pods do
     pod 'Kal'
     pod 'Nimbus'
+    pod 'SVProgressHUD'
   end
 end

@@ -51,10 +51,12 @@ PODS:
   - Nimbus/PagingScrollView
 - Nimbus/WebController (1.0.0):
   - Nimbus/Core
+- SVProgressHUD (0.8)
 
 DEPENDENCIES:
 - Kal
 - Nimbus
+- SVProgressHUD
 
 SPEC CHECKSUMS:
   AFNetworking: 4c11f857c9a18d65f4257c90a1e74ac49f0ac422
@@ -76,5 +78,6 @@ SPEC CHECKSUMS:
   Nimbus/PagingScrollView: 196175ecaddf4e88925c9e0441aa58e4e40a2b89
   Nimbus/Photos: 196175ecaddf4e88925c9e0441aa58e4e40a2b89
   Nimbus/WebController: 196175ecaddf4e88925c9e0441aa58e4e40a2b89
+  SVProgressHUD: 51042a14e3a716efdbdd73cbb2181fb23ee94389
 
 COCOAPODS: 0.16.0
